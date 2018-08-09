@@ -1,4 +1,5 @@
 # devops-aula02
 Chico Anisio
-José Wilker
+Thiago Fragoso
 Paolla Oliveira
+Suzana Vieira
